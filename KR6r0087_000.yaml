@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6r0087/x/v1/juan/0
+seq: 0
+front:
+  text: 華嚴感應略記目録雙童現瑞天地呈祥地震光流感通玄悟經輝五彩神人警衛天女給侍冬葵發豔瑞鳥銜花神人延請普賢授義口獲舍利菩薩涌現修羅退陳證入無生時雨雱流華藏受生神授華音天宮請講洪水斷流神光屢現地獄消滅盥水濟生景雲現瑞異僧授旨山神聽經金城輝映龍光五彩
+  hash: sha256:3707b2822803c6ab0fd4b2aee47e1cf880921fac27d22a17f06b5afeb242fe26
+  markers:
+  - {type: 其他, offset: 0, content: 華嚴感應略記目錄, id: KR6r0087_X_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴經感應略記
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X77/X77n1532.xml
+    old_id: X77n1532
+hash: sha256:d23db2df3cdb9c43e8582fc85bf490b4469dc322fed9150c018050cd2a1cf6ed

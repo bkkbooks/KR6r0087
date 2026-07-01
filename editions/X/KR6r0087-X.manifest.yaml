@@ -1,0 +1,338 @@
+canonical_identifier: bkk:krp/KR6r0087/X/v1
+canonical_location: https://kanripo.org/bkk/KR6r0087/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴經感應略記
+  identifiers:
+    krp: KR6r0087
+    cbeta: X77n1532
+    cbeta_old_id: X77n1532
+    authorityid: CA0001377
+    json_key: X1532
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X77/X77n1532.xml
+    old_id: X77n1532
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0087_000-X.yaml, hash: 'sha256:9368df7ca6ad36a9880f9f1cbb5ddcd17f85ab82fb3281891bd421189c6ca4c9'}
+  - {seq: 1, filename: KR6r0087_001-X.yaml, hash: 'sha256:217fa823549416f0c09d929745b81dbdad49938923a2d9d53b6460686f1587a8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0087_000-X.markers.yaml, hash: 'sha256:4e297e86a297a18b659cf94c4d0fe25227d5a74a5ca2044d034da7a3138fe0e1'}
+  - {seq: 1, role: markers, filename: assets/KR6r0087_001-X.markers.yaml, hash: 'sha256:0ce059be95e3606fd2965e3e97cec80a559b01759fefc5795f2906a84aec0029'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0087_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 華嚴感應略記目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 3008
+  label: 大方廣佛華嚴經感應略記
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 雙童現瑞
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-2
+    span:
+    - body
+    - 68
+    - 68
+  label: 天地呈祥
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-3
+    span:
+    - body
+    - 167
+    - 167
+  label: 地震光流
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-4
+    span:
+    - body
+    - 303
+    - 303
+  label: 感通玄悟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-5
+    span:
+    - body
+    - 483
+    - 483
+  label: 經輝五彩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-6
+    span:
+    - body
+    - 554
+    - 554
+  label: 神人警衛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-7
+    span:
+    - body
+    - 646
+    - 646
+  label: 天女給侍
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-8
+    span:
+    - body
+    - 796
+    - 796
+  label: 冬葵發𧰟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-9
+    span:
+    - body
+    - 865
+    - 865
+  label: 瑞鳥銜花
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-10
+    span:
+    - body
+    - 911
+    - 911
+  label: 神人延請
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-11
+    span:
+    - body
+    - 1020
+    - 1020
+  label: 普賢授義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-12
+    span:
+    - body
+    - 1078
+    - 1078
+  label: 口獲舍利
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-13
+    span:
+    - body
+    - 1126
+    - 1126
+  label: 菩薩涌現
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-14
+    span:
+    - body
+    - 1191
+    - 1191
+  label: 脩羅退陣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-15
+    span:
+    - body
+    - 1295
+    - 1295
+  label: 證入無生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-16
+    span:
+    - body
+    - 1508
+    - 1508
+  label: 時雨霶流
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-17
+    span:
+    - body
+    - 1625
+    - 1625
+  label: 華藏受生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-18
+    span:
+    - body
+    - 1737
+    - 1737
+  label: 神授華音
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-19
+    span:
+    - body
+    - 1810
+    - 1810
+  label: 天宮請講
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-20
+    span:
+    - body
+    - 1912
+    - 1912
+  label: 洪水斷流
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-21
+    span:
+    - body
+    - 2020
+    - 2020
+  label: 神光屢現
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-22
+    span:
+    - body
+    - 2111
+    - 2111
+  label: 地獄消滅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-23
+    span:
+    - body
+    - 2215
+    - 2215
+  label: 盥水濟生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-24
+    span:
+    - body
+    - 2323
+    - 2323
+  label: 景雲現瑞
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-25
+    span:
+    - body
+    - 2655
+    - 2655
+  label: 異僧授旨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-26
+    span:
+    - body
+    - 2704
+    - 2704
+  label: 山神聽經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-27
+    span:
+    - body
+    - 2804
+    - 2804
+  label: 金城輝暎
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-28
+    span:
+    - body
+    - 2887
+    - 2887
+  label: 龍光五彩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0087_X_001-mulu-29
+    span:
+    - body
+    - 2993
+    - 2993
+  label: (附)華嚴大經處會品目卷帙總要之圖
+  type: mulu
+  level: 1
+hash: sha256:c00061f94b6ce71f2f1193b8ff6da348400f968eec71796e907c5e74d63e3707

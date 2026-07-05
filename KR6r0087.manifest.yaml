@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0087_000.yaml, hash: 'sha256:d23db2df3cdb9c43e8582fc85bf490b4469dc322fed9150c018050cd2a1cf6ed'}
-  - {seq: 1, filename: KR6r0087_001.yaml, hash: 'sha256:951cd72b2877676f270d5217eab4136a57739e74bfcb52beb7208ceb271b917d'}
+  - {seq: 0, filename: KR6r0087_000.yaml, hash: 'sha256:9368df7ca6ad36a9880f9f1cbb5ddcd17f85ab82fb3281891bd421189c6ca4c9'}
+  - {seq: 1, filename: KR6r0087_001.yaml, hash: 'sha256:217fa823549416f0c09d929745b81dbdad49938923a2d9d53b6460686f1587a8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0087_000.markers.yaml, hash: 'sha256:54d839e1ca35857c573412b0be6ddf113a4f98e42618a5d123deb43c0ccf7b65'}
-  - {seq: 1, role: markers, filename: assets/KR6r0087_001.markers.yaml, hash: 'sha256:b956a10211e8c97e6c250c9b6038874389860a1665a98db78cc4c3e938a9460f'}
+  - {seq: 0, role: markers, filename: assets/KR6r0087_000.markers.yaml, hash: 'sha256:66d9cd1cdc2dbd3923d08ae507ad43383256e72edac96a0334e5403c199dd686'}
+  - {seq: 1, role: markers, filename: assets/KR6r0087_001.markers.yaml, hash: 'sha256:5922ed3a0d8e963429943fa1238e53426dccffd5f40b5318f6ca7d530505d612'}
 table_of_contents:
 - ref:
     seq: 0
@@ -337,7 +337,4 @@ table_of_contents:
   label: (附)華嚴大經處會品目卷帙總要之圖
   type: mulu
   level: 1
-hash: sha256:aa648e8987e9cd95aa5b763e8162d9d5af62fbbb7020c975a9ccca31d653b066
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:427ea7f4eac8a2788908458d5db826bc098124ce75dfc245d8478ed8a3f424a0

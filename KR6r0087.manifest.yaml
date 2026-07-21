@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0087_000.yaml, hash: 'sha256:d23db2df3cdb9c43e8582fc85bf490b4469dc322fed9150c018050cd2a1cf6ed'}
+  - {seq: 0, filename: KR6r0087_000.yaml, hash: 'sha256:54a19a566a172f8171f19fc9d569080e5d5cd37547708ab2dc63196f16a33c45'}
   - {seq: 1, filename: KR6r0087_001.yaml, hash: 'sha256:a23c9771a990de57261994d9eab1960043606d6f7ff964387da4c1edb256c350'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0087_000.markers.yaml, hash: 'sha256:5d8366538b2d2390dc680440dfcc2adf4fec5692d8634437bf38b7983e25b49d'}
+  - {seq: 0, role: markers, filename: assets/KR6r0087_000.markers.yaml, hash: 'sha256:cb8a38726c05cdf6de5de8bca9c3439cbf4f9603f1d8ffc04d1a0ccd9895466c'}
   - {seq: 1, role: markers, filename: assets/KR6r0087_001.markers.yaml, hash: 'sha256:6a80e573b53f5511cee1c4a557a91614f7568df9f2a9df71c07470f56a9c7cf8'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6r0087_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 華嚴感應略記目錄
@@ -337,7 +337,7 @@ table_of_contents:
   label: (附)華嚴大經處會品目卷帙總要之圖
   type: mulu
   level: 1
-hash: sha256:054f2d57c7511b1066ca0042f596cfc5a32748d7be36da936cec1fe6a735ae91
+hash: sha256:f7f076c4277ab792188c0f27d07c1d0e7a5aaafa978b368527b07de1fafa2cf7
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
